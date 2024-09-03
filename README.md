@@ -1,2 +1,3 @@
 # jobsheet2
-beta testing wri
+
+Hello Github, ini adalah repository pertama saya
